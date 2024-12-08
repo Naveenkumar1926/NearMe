@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 08/12/2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -48,7 +48,7 @@ Execute the programs and publish them.
             
         </map>
     </center>
-</body>
+
 </html>
 
 <html>
@@ -60,7 +60,7 @@ Execute the programs and publish them.
     <style>
         body {
             background-color: lightblue; /* Background color for the page */
-            font-family: Arial, sans-serif; /* Sets the font style */
+            font-family: Arial, sans-serif; /* Sets the font style *
             margin: 0;
             padding: 0;
             color: #333;
@@ -136,7 +136,7 @@ Execute the programs and publish them.
             color: #333;
         }
         header {
-            background-color: #837b9b; /* Green header background */
+            background-color: #837b9b; /* Green header background *
             color: white;
             padding: 20px;
             text-align: center;
